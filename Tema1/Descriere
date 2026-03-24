@@ -1,0 +1,27 @@
+Proiectul implementează un sistem de gestionare a rezervărilor într-un restaurant, utilizând conceptele fundamentale ale programării orientate pe obiecte în C++.
+
+Date de intrare:
+Datele sunt definite direct în program prin crearea de obiecte cu ajutorul celor 3 clase,specificate mai jos:
+1.Client (nume,id_client,buget,telefon)
+2.Masa (nr_locuri,numar_masa,poziție,consum minim)
+3.Rezervare (listă clienți,masă,oră_rezervare,numar_clienti,id_rezervare,numar_rezervari)
+
+Operatii posibile:
+1.Verificare persoane cu telefon valid
+2.Afisare clienti sortati descrescator dupa buget
+3.Afisare mese premium
+4.Afisare consum pentru fiecare persoana de la fiecare masa in medie
+5.Pastrarea rezervarilor care sunt valide
+6.Clientul cu cel mai mare buget din fiecare rezervare
+7.Tipul rezervarii
+8.Afisare persoane care au realizat rezervarea
+La final se afiseaza si numarul de obiecte de tip Rezervare create pe parcursul programului.
+
+Functionalitati de implementare specifice POO
+1.Constructor de initializare
+2.Constructor cu parametrii
+3.Constructor de copiere
+4.Operator de atribuire
+5.Functii getteri si setteri
+6.Supraincarcarea oepratorului de afisare
+7.Functii membre si private
