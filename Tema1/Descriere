@@ -14,7 +14,9 @@ Operatii posibile:
 5.Pastrarea rezervarilor care sunt valide
 6.Clientul cu cel mai mare buget din fiecare rezervare
 7.Tipul rezervarii
-8.Afisare persoane care au realizat rezervarea
+8.Numar persoane care au realizat rezervarea(functie privata)
+9.Alte functii private
+10.Rezervarile care beneficiaza de reducere
 La final se afiseaza si numarul de obiecte de tip Rezervare create pe parcursul programului.
 
 Functionalitati de implementare specifice POO
