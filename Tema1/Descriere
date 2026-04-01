@@ -17,6 +17,7 @@ Operatii posibile:
 8.Numar persoane care au realizat rezervarea(functie privata)
 9.Alte functii private
 10.Rezervarile care beneficiaza de reducere
+11.Validare ora_sosire client si ora_rezervare
 La final se afiseaza si numarul de obiecte de tip Rezervare create pe parcursul programului.
 
 Functionalitati de implementare specifice POO
